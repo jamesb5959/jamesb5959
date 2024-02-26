@@ -4,6 +4,7 @@
 <img border="0" src="https://wigle.net/bi/5oebq0Uq4t+M7iBMTrv6wQ.png">
 </a>
 
+[url=https://wigle.net][img]https://wigle.net/bi/5oebq0Uq4t+M7iBMTrv6wQ.png[/img][/url]
 <!--
 **jamesb5959/jamesb5959** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
