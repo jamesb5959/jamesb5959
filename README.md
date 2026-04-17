@@ -65,13 +65,13 @@
 ## Additional Technical Work
 
 - **Neural Networks for Network Traffic Analysis**  
-  Designed a Python based workflow for analyzing network traffic from pcap data, including preprocessing, feature extraction, model training, and classification-oriented detection pipelines for anomalous or malicious activity.  [oai_citation:1‡Resume.pdf](sediment://file_00000000855871f8a6c0c8e40b6d8e95)
+  Designed a Python based workflow for analyzing network traffic from pcap data, including preprocessing, feature extraction, model training, and classification-oriented detection pipelines for anomalous or malicious activity.
 
 - **CVE-2024-1086 Research**  
-  Configured and demonstrated exploitation of CVE-2024-1086 on ARM-based Android targets to achieve root-level access in a controlled research setting.  [oai_citation:2‡Resume.pdf](sediment://file_00000000855871f8a6c0c8e40b6d8e95)
+  Configured and demonstrated exploitation of CVE-2024-1086 on ARM-based Android targets to achieve root-level access in a controlled research setting.
 
 - **VirtualBox Virtio-net Escape PoC**  
-  Developed a proof-of-concept for CVE-2023-22098 targeting Oracle VirtualBox’s virtio-net implementation by triggering an out-of-bounds VLAN filter write, demonstrating a guest-to-host escape path.  [oai_citation:3‡Resume.pdf](sediment://file_00000000855871f8a6c0c8e40b6d8e95)
+  Developed a proof-of-concept for CVE-2023-22098 targeting Oracle VirtualBox’s virtio-net implementation by triggering an out-of-bounds VLAN filter write, demonstrating a guest-to-host escape path.
 
 ---
 
