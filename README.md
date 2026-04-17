@@ -74,7 +74,7 @@
 ---
 
 <p align="center">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/jamesb5959/jamesb5959/output/github-contribution-grid-snake.gif">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/jamesb5959/jamesb5959/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
