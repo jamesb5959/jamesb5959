@@ -46,6 +46,25 @@
 - **[Assembly-Algorithms](https://github.com/jamesb5959/Assembly-Algorithms)**  
   Algorithms implemented in assembly for learning and systems-level understanding.
 
+- **[Linux-Kernel-Patch](https://github.com/jamesb5959/Linux-Kernel-Patch)**  
+  Linux kernel patching work for hardware enablement on the ASUS G16 GU603VV, focused on restoring sound and amplifier functionality through DSDT/CSC3551-aligned changes and kernel-level device support.
+  
+- **[MGS_MCSC](https://github.com/jamesb5959/MGS_MCSC)**  
+  Rust-based Linux and Steam Deck trainer for the Metal Gear Solid Master Collection, built around live process discovery, AOB-based memory anchoring, and direct in-memory editing of game state. Supports GUI and CLI frontends, process/PID targeting, save difficulty manipulation, stat editing, and runtime modification of ammo, inventory, toggles, and special values for currently implemented MGS1 and MGS2 layouts.
+
+---
+
+## Additional Technical Work
+
+- **Neural Networks for Network Traffic Analysis**  
+  Designed a Python based workflow for analyzing network traffic from pcap data, including preprocessing, feature extraction, model training, and classification-oriented detection pipelines for anomalous or malicious activity.  [oai_citation:1‡Resume.pdf](sediment://file_00000000855871f8a6c0c8e40b6d8e95)
+
+- **CVE-2024-1086 Research**  
+  Configured and demonstrated exploitation of CVE-2024-1086 on ARM-based Android targets to achieve root-level access in a controlled research setting.  [oai_citation:2‡Resume.pdf](sediment://file_00000000855871f8a6c0c8e40b6d8e95)
+
+- **VirtualBox Virtio-net Escape PoC**  
+  Developed a proof-of-concept for CVE-2023-22098 targeting Oracle VirtualBox’s virtio-net implementation by triggering an out-of-bounds VLAN filter write, demonstrating a guest-to-host escape path.  [oai_citation:3‡Resume.pdf](sediment://file_00000000855871f8a6c0c8e40b6d8e95)
+
 ---
 
 ## Tech I Work With
@@ -74,7 +93,11 @@
 ---
 
 <p align="center">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/jamesb5959/jamesb5959/output/github-contribution-grid-snake.svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jamesb5959/jamesb5959/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jamesb5959/jamesb5959/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/jamesb5959/jamesb5959/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </p>
 
 ---
